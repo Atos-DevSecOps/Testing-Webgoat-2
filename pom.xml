@@ -606,7 +606,7 @@
             <plugin>
                 <groupId>com.fortify.ps.maven.plugin</groupId>
                 <artifactId>sca-maven-plugin</artifactId>
-                <version>3.90</version>
+                <version>22.2.0</version>
 
             </plugin>
 
